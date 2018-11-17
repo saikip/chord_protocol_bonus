@@ -19,7 +19,7 @@ Files of importance in the zipped folder (in order of call):
 
 *chord_protocol.ex*  -> Main Module
 
-*supervisor.ex *     -> Supervisor Module
+*supervisor.ex*     -> Supervisor Module
 
 *chord_boss.ex*      -> Worker Module
 
