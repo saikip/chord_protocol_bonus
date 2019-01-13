@@ -1,9 +1,7 @@
 ## **CHORD PROTOCOL (BONUS) - COP5615: Fall 2018**
 
-## **TEAM MEMBERS**
+## **TEAM INFO**
 Priyam Saikia (UFID **** ****)
-
-Noopur R Kalawatia (UFID **** ****)
 
 ## **PROBLEM**
 Implement failure model for the chord protocol that was designed using 
